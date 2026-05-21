@@ -31,3 +31,5 @@ npx newman run "collections/Restful Booker API Suite.postman_collection.json" -e
 - Auth API
 - Booking API
 - Ping Health API
+
+# restful-booker-api-automation
